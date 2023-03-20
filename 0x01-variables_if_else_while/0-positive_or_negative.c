@@ -3,9 +3,11 @@
 #include <stdio.h>
 /*headers go here */
 
-/*
+/**
  * main - is a program to determain whether a number is positive or negative
- * */
+ *
+ * Return: 0 =  always success
+ */
 int main(void)
 {
 	int n;
